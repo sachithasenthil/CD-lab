@@ -1,0 +1,4 @@
+if (x < 5) { y = 10; }
+Enter a C control structure syntax:
+Valid control structure syntax.
+
